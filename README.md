@@ -1,4 +1,4 @@
-Netflix Data Analysis Report
+Netflix Data Analysis Report:-    
 Netflix Project
  Project Overview
  This project centers on analyzing and showcasing insights derived from Netflix-related data. The dataset utilized for this study is 
